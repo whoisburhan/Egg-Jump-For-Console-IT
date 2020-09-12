@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 747cca020004a72479158c65260c28fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8357004767197486620
+    second: flag animation home_0
+  - first:
+      213: 1050648092065242743
+    second: flag animation home_1
+  - first:
+      213: 6938244886793418409
+    second: flag animation home_2
+  - first:
+      213: 263594750157197145
+    second: flag animation home_3
+  - first:
+      213: 8272195144920929539
+    second: flag animation home_4
+  - first:
+      213: 8877897087733594429
+    second: flag animation home_5
+  - first:
+      213: 5687150569906824506
+    second: flag animation home_6
+  - first:
+      213: -6103818199393873425
+    second: flag animation home_7
+  - first:
+      213: -667847091782637232
+    second: flag animation home_8
+  - first:
+      213: 6101939978219124383
+    second: flag animation home_9
+  - first:
+      213: 865223444090579648
+    second: flag animation home_10
+  - first:
+      213: -2664048713961559148
+    second: flag animation home_11
+  - first:
+      213: -8841534762838633136
+    second: flag animation home_12
+  - first:
+      213: -8096614225319427356
+    second: flag animation home_13
+  - first:
+      213: 2440488288439827442
+    second: flag animation home_14
+  - first:
+      213: -9091559176184906823
+    second: flag animation home_15
+  - first:
+      213: -7892458040601394511
+    second: flag animation home_16
+  - first:
+      213: -4387307802349847575
+    second: flag animation home_17
+  - first:
+      213: 1872153325106536590
+    second: flag animation home_18
+  - first:
+      213: -4781657043291824134
+    second: flag animation home_19
+  - first:
+      213: 4129666694211645724
+    second: flag animation home_20
+  - first:
+      213: -5791627815690672444
+    second: flag animation home_21
+  - first:
+      213: 8003097833520397000
+    second: flag animation home_22
+  - first:
+      213: 154339007359367588
+    second: flag animation home_23
+  - first:
+      213: -554816680625028761
+    second: flag animation home_24
+  - first:
+      213: -7577459278414400722
+    second: flag animation home_25
+  - first:
+      213: -1338209581275328493
+    second: flag animation home_26
+  - first:
+      213: -6164406600347048533
+    second: flag animation home_27
+  - first:
+      213: 6358661941106415525
+    second: flag animation home_28
+  - first:
+      213: 544663841408353332
+    second: flag animation home_29
+  - first:
+      213: 2955118491182783352
+    second: flag animation home_30
+  - first:
+      213: 7939429883702526821
+    second: flag animation home_31
+  - first:
+      213: 8662583151833557567
+    second: flag animation home_32
+  - first:
+      213: -1405051581121410440
+    second: flag animation home_33
+  - first:
+      213: -5303656246326243118
+    second: flag animation home_34
+  - first:
+      213: -8136975087699117293
+    second: flag animation home_35
+  - first:
+      213: 8531286877418215448
+    second: flag animation home_36
+  - first:
+      213: -1430862589855916340
+    second: flag animation home_37
+  - first:
+      213: -6633014095690572964
+    second: flag animation home_38
+  - first:
+      213: -5378232332656508387
+    second: flag animation home_39
+  - first:
+      213: 4189799282932619796
+    second: flag animation home_40
+  - first:
+      213: 8067993768977808588
+    second: flag animation home_41
+  - first:
+      213: -2429813057796506075
+    second: flag animation home_42
+  - first:
+      213: -718100400519294270
+    second: flag animation home_43
+  - first:
+      213: -9020514391631526476
+    second: flag animation home_44
+  - first:
+      213: -2846181802024008276
+    second: flag animation home_0
+  - first:
+      213: 6511394299719725335
+    second: flag animation home_1
+  - first:
+      213: 2834886905538758349
+    second: flag animation home_2
+  - first:
+      213: -7193156462608258391
+    second: flag animation home_3
+  - first:
+      213: -1758257362574524524
+    second: flag animation home_4
+  - first:
+      213: -401319274300530478
+    second: flag animation home_5
+  - first:
+      213: 6609650438877161728
+    second: flag animation home_6
+  - first:
+      213: 8753183900779790624
+    second: flag animation home_7
+  - first:
+      213: 8654248268879067448
+    second: flag animation home_8
+  - first:
+      213: 6204671931646747932
+    second: flag animation home_9
+  - first:
+      213: -1611702613177086546
+    second: flag animation home_10
+  - first:
+      213: -575546603928062923
+    second: flag animation home_11
+  - first:
+      213: 4392976658068551713
+    second: flag animation home_12
+  - first:
+      213: 5503626878692097440
+    second: flag animation home_13
+  - first:
+      213: -8910827996117388193
+    second: flag animation home_14
+  - first:
+      213: -4635026027763872412
+    second: flag animation home_15
+  - first:
+      213: -2894979616602927060
+    second: flag animation home_16
+  - first:
+      213: -1846005671591929743
+    second: flag animation home_17
+  - first:
+      213: 4218044051941959716
+    second: flag animation home_18
+  - first:
+      213: -3081949415300083233
+    second: flag animation home_19
+  - first:
+      213: 2935152131539636113
+    second: flag animation home_20
+  - first:
+      213: 7415145148532239357
+    second: flag animation home_21
+  - first:
+      213: -8883456350507800734
+    second: flag animation home_22
+  - first:
+      213: -4220241622271379899
+    second: flag animation home_23
+  - first:
+      213: -937877587636463726
+    second: flag animation home_24
+  - first:
+      213: -8713104953376228841
+    second: flag animation home_25
+  - first:
+      213: -3611275211337049063
+    second: flag animation home_26
+  - first:
+      213: -5956210821035187582
+    second: flag animation home_27
+  - first:
+      213: 5673515506586899675
+    second: flag animation home_28
+  - first:
+      213: 3280581947882003464
+    second: flag animation home_29
+  - first:
+      213: -2994434955690846205
+    second: flag animation home_30
+  - first:
+      213: -477363243724154561
+    second: flag animation home_31
+  - first:
+      213: -5041523633625455728
+    second: flag animation home_32
+  - first:
+      213: -5399328171317482596
+    second: flag animation home_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flag animation home_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 181
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58d241bb45088d0800000000000000
+      internalID: -2846181802024008276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1376
+        width: 181
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113c43ed9e1d5a50800000000000000
+      internalID: 6511394299719725335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1382
+        width: 181
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc64b07ee9a875720800000000000000
+      internalID: 2834886905538758349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1376
+        width: 180
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaed68ee46cc2c90800000000000000
+      internalID: -7193156462608258391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1378
+        width: 176
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb7009e3a6997e0800000000000000
+      internalID: -1758257362574524524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_5
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1376
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0accd0f3a3e6af0800000000000000
+      internalID: -401319274300530478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_6
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1376
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00927c20e023abb50800000000000000
+      internalID: 6609650438877161728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_7
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1376
+        width: 176
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c5a3a16e897970800000000000000
+      internalID: 8753183900779790624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 177
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397398c2f01a1870800000000000000
+      internalID: 8654248268879067448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1128
+        width: 186
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1524a18f3c6b1650800000000000000
+      internalID: 6204671931646747932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1133
+        width: 186
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc202330512a9e0800000000000000
+      internalID: -1611702613177086546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1127
+        width: 186
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5347f21c96f3308f0800000000000000
+      internalID: -575546603928062923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1125
+        width: 183
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12832cadefcf6fc30800000000000000
+      internalID: 4392976658068551713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1131
+        width: 183
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adfbb89c7fc06c40800000000000000
+      internalID: 5503626878692097440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1127
+        width: 183
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5431dc2621665480800000000000000
+      internalID: -8910827996117388193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_15
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1130
+        width: 178
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc17a92641dafb0800000000000000
+      internalID: -4635026027763872412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 179
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d2608067f2d7d0800000000000000
+      internalID: -2894979616602927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 872
+        width: 179
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178186b4f9ba166e0800000000000000
+      internalID: -1846005671591929743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 872
+        width: 179
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42823f297b0898a30800000000000000
+      internalID: 4218044051941959716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 874
+        width: 185
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d05de557ba35d0800000000000000
+      internalID: -3081949415300083233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 876
+        width: 185
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f86220051cbb820800000000000000
+      internalID: 2935152131539636113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 876
+        width: 185
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba938b933e7e660800000000000000
+      internalID: 7415145148532239357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_22
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 874
+        width: 185
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676b4a048f97b480800000000000000
+      internalID: -8883456350507800734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_23
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 876
+        width: 185
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5463236ba90be65c0800000000000000
+      internalID: -4220241622271379899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 186
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d02a9d4dfbf2f0800000000000000
+      internalID: -937877587636463726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 624
+        width: 184
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a305b7535d41780800000000000000
+      internalID: -8713104953376228841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 626
+        width: 184
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd412245c22edc0800000000000000
+      internalID: -3611275211337049063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 626
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822cdcc0d9475da0800000000000000
+      internalID: -5956210821035187582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_28
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 626
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd458cd2b406cbe40800000000000000
+      internalID: 5673515506586899675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_29
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 626
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd01c76e7f68d20800000000000000
+      internalID: 3280581947882003464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_30
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 626
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d803e541a176d0800000000000000
+      internalID: -2994434955690846205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_31
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 626
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395ef4b8a01069f0800000000000000
+      internalID: -477363243724154561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 189
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a40367f8e80ab0800000000000000
+      internalID: -5041523633625455728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag animation home_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 372
+        width: 189
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bacd292abb115b0800000000000000
+      internalID: -5399328171317482596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
